@@ -1,0 +1,298 @@
+@media only screen and (max-width : 1200px) 
+{   
+    /* navbar */
+
+    .navbar-nav li img
+    {
+        margin-left: 1100%;
+    }
+
+    /* pouquoi-ozmios */
+
+    .pouquoi-ozmios
+    {
+        height: 350px;
+    }
+
+    .social-links
+    {
+        left: 91.8%;
+    }
+
+    /* Home page */
+    .colombia-comme
+    {
+        height: 450px;
+    }
+
+    .colombia-comme img
+    {
+        height: 450px;
+    }
+
+    .ozmios-experience .col-lg-6 img
+    {
+        padding-top:  9em;
+        margin-left: 3em;
+        width: 90%;
+    }
+
+}
+
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) 
+{
+    /* navbar */
+
+    .navbar-nav li img
+    {
+        margin-left: 860%;
+    }
+
+    /* client-service */
+
+    .client-service
+    {
+        height: 350px;
+    }
+
+    /* pouquoi-ozmios */
+
+    .pouquoi-ozmios
+    {
+        height: 650px;
+    }
+
+    .social-links
+    {
+        left: 90%;
+    }
+
+    /* Home page */
+    .colombia-comme
+    {
+        height: 500px;
+    }
+
+    .colombia-comme img
+    {
+        height: 500px;
+    }
+
+    .ozmios-experience .col-lg-6 img
+    {
+        padding-top:  14em;
+        margin-left: 3em;
+        width: 90%;
+    }
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) 
+{
+	/* navbar */
+
+    .navbar-nav li img
+    {
+        margin-left: 45%;
+    }
+
+    /* Osez vivre Medellin */
+
+    .Osez-vivre
+    {
+        height: 450px;
+        background-color: #f6ca18;
+    }
+
+    /* Appartements */
+
+    .Appartements
+    {
+        height: 650px;
+        background: #ebebfa;
+    }
+
+    .Appartements .nuits-Doradal
+    {
+        border-bottom: 1px solid #d6d6c2;
+        /*height: 150px;  */
+    }
+
+    .appartements-icon
+    {
+        padding-top: 1em;
+        margin-top: 0px;
+        color: blue;
+    }
+    .privee
+    {
+        border-bottom: 1px solid #d6d6c2;
+    }
+    .cities
+    {
+        border-bottom: 1px solid #d6d6c2;
+    }
+
+    /* sed posuere */
+
+    .sed-posuere
+    {
+        height: 450px;
+    }
+   
+    /* client-service */
+
+    .client-service
+    {
+        height: 850px;
+    }
+
+    /* pouquoi-ozmios */
+
+    .pouquoi-ozmios
+    {
+        height: 850px;
+    }
+
+    /* Home page */
+    .colombia-comme
+    {
+        height: 850px;
+    }
+
+    .colombia-comme img
+    {
+        width: 104%;
+        height: 400px;
+    }
+    .fete
+    {
+        height: 120px;
+    }
+
+    .fete .col-sm-3
+    {
+        padding-bottom: 1em;
+    }
+
+    .btn-yellow{
+        width: 80%;
+    }
+
+    .ozmios-experience
+    {
+        height: 900px;
+        margin-top: 3em;
+    }
+
+    .ozmios-experience .col-lg-6 img
+    {
+        margin-top:  21em;
+        /*height: 200px;*/
+        box-shadow: 0px;
+        /*margin-left: 3em;*/
+        width: 90%;
+    }
+
+    .big-world
+    {
+        margin-top: -65em;
+        text-align: center;
+    }
+
+    .cards
+    {
+        height: 800px;
+    }
+
+    .abonnez-vous
+    {
+        height: 400px;
+    }
+    .abonnez-vous .Medellin-form
+    {
+        padding-top: 0px;
+    }
+}
+
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (max-width : 480px) 
+{
+    /* modelin-experience */
+
+    .modelin-experience
+    {
+        height: 350px;
+    }
+
+    /* sed posuere */
+
+    .sed-posuere
+    {
+        height: 700px;
+    }
+
+     /* client-service */
+
+    .client-service
+    {
+        height: 900px;
+    }
+
+    .footer
+    {
+        height: 100px;
+        padding-top: 1em;
+    }
+
+    .addres
+    {
+        padding-top: 1em;
+    }
+
+    /* Home page */
+    .colombia-comme
+    {
+        height: 850px;
+    }
+
+    .colombia-comme img
+    {
+        width: 107%;
+        height: 300px;
+    }
+
+    .btn-yellow{
+        width: 100%;
+    }
+
+    .ozmios-experience
+    {
+        height: 660px;
+        margin-top: 3em;
+    }
+
+    .ozmios-experience .col-lg-6 img
+    {
+        margin-top:  17em;
+        /*height: 200px;*/
+        box-shadow: 0px;
+        margin-left: 1.5em;
+        width: 90%;
+    }
+
+    .big-world
+    {
+        margin-top: -49em;
+        text-align: center;
+    }
+}
+
+/* Custom, iPhone Retina */ 
+@media only screen and (max-width : 320px) 
+{
+
+}

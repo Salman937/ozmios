@@ -1,0 +1,2 @@
+[5/21/2018, 12:33:43 PM] layer "Mentions Legales © 2018. www.ozmios.com, All Rights Reserved. ": Unsupported extension: com
+[5/21/2018, 12:33:43 PM] layer "Google +": Expected end of input but "+" found.
